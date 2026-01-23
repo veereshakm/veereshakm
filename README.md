@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Veeresha Kadlibala Mathada  
 
-<!--
-**veereshakm/veereshakm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student at **Sir M Visvesvaraya Institute of Technology, Bengaluru**  
+💡 Passionate about **Machine Learning, AI, NLP, and Data Science**  
+🚀 I love building real-world projects and improving my problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🔥 Aspiring **Data Scientist**
+- 🧠 Interested in **Machine Learning | Deep Learning | NLP | Data Analytics**
+- 💻 Skills: **Python, C, C++, Java, DSA, SQL, DBMS, Web Development**
+- 📌 Currently learning: **Advanced ML + NLP + Model Deployment**
+- 🎯 Goal: Build impactful AI products & crack a good Data Science role
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python | C | C++ | Java  
+**ML Tools:** Scikit-learn | Pandas | NumPy | Matplotlib  
+**Web:** HTML | CSS | Flask | Streamlit  
+**Database:** MySQL | MongoDB (Basics)  
+**Other:** Git | GitHub | VS Code  
+
+---
+
+## 📌 Projects  
+### 📰 INDIAFACT: Real-Time News Authenticity Detection for India  
+🔹 Fake News Detection using ML & NLP  
+🔹 Converts news into authenticity result with analysis  
+
+### 📄 AI Resume Screening System  
+🔹 Resume parsing + ATS score + job suggestions  
+🔹 Built using NLP + Streamlit  
+
+### 🏏 IPL Winner Predictor  
+🔹 Predicts match winner using historical IPL data (2008–2024)  
+🔹 Web app + ML model integration  
+
+### ✋ Hand Sign Translation to Speech (Final Year Project)  
+🔹 Real-time hand sign recognition  
+🔹 Converts signs to speech via mobile app using AI  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/veeresha-kadlibala-mathada-5a6b38272/
+- 📧 Email: kmveeresh283@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
